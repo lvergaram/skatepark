@@ -14,9 +14,6 @@ git clone git@github.com:lvergaram/skatepark.git
 ```
 
 crea una base de datos en postgres llamada **skatepark**
-```bash
-git clone git@github.com:lvergaram/skatepark.git
-```
 
 crea el archivo .env en el directorio raíz y configura las siguientes variables
 ```bash
